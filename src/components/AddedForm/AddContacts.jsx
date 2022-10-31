@@ -18,7 +18,7 @@ export const Label = styled.label`
   font-weight: 500;
 `;
 export const Input = styled.input`
-  er: 1px solid black;
+  border: 1px solid black;
   border-radius: 4px;
   width: 200px;
   height: 30px;
